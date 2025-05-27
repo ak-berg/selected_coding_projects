@@ -1,3 +1,6 @@
+# Python Skript für die Erstellung eines zirkularen Balkendiagrammes.
+# Die Datensätze in 'dataset' stammen dabei aus Power BI.
+
 # Der folgende Code zum Erstellen eines Datenrahmens und zum Entfernen doppelter Zeilen wird immer ausgeführt und dient als Präambel für Ihr Skript:
 
 # dataset = pandas.DataFrame(Kennzahl, Kennzahl_Relativ, Bereich, Anzahl_Kennzahlen, Alle_Bereiche)
