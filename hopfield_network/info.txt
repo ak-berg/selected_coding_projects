@@ -1,3 +1,3 @@
-Programming project from a computational class during my master studies.
+Programming project from a computation class during my master studies.
 
 The main-file 'hopfield_network.ipynb' accesses a compiled C-file 'kernel.dll' with the help of the 'ctypes'-library in Python.
