@@ -1,1 +1,3 @@
 Some of the scripts which i used during my master project about edge field induced magnetic skyrmions and their potential application in artificial neuronal networks. 
+
+lib_physics.py is a self-defined module for defining crucial functions, that are used in various analyses/ Python scripts of the project. E.g., obtaining physical quantities such as the Hamiltonian, effective magnetic field, topological charge as well as setting up the magnetic moments on the racetrack.
