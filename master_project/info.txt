@@ -1,0 +1,1 @@
+Some of the scripts which i used during my master project about edge field induced magnetic skyrmions and their potential application in artificial neuronal networks. 
