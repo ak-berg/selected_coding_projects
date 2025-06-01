@@ -1,3 +1,5 @@
 Programming project from a computation class during my master studies.
 
+It demonstrates the Hopfield network, which is a special kind of artificial neural network typically used to recover patterns from noisy input data.
+
 The main-file 'hopfield_network.ipynb' accesses a compiled C-file 'kernel.dll' with the help of the 'ctypes'-library in Python.
